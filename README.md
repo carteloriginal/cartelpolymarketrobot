@@ -1,2 +1,3 @@
 # cartelpolymarketrobot
-Polymarket robot for opy trading
+Polymarket robot for сopy trading
+https://cryptocartel.trade
